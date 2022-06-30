@@ -1,0 +1,6 @@
+Primordial,Java,stdlib,none
+Primordial,Java,jarFile,primordial.jar.model
+Application,Java,classFile,./microbench/micro/src/inheritance/S.class
+Application,Java,classFile,./microbench/micro/src/inheritance/Sample.class
+Application,Java,classFile,./microbench/micro/src/inheritance/A.class
+Application,Java,classFile,./microbench/micro/src/inheritance/B.class

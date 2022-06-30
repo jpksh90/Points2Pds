@@ -1,0 +1,8 @@
+Primordial,Java,stdlib,none
+Primordial,Java,jarFile,primordial.jar.model
+Application,Java,jarFile,./benchmark_suite/dacapo_9_12/batik/jar/batik-all.jar
+Application,Java,jarFile,./benchmark_suite/dacapo_9_12/batik/jar/crimson-1.1.3.jar
+Application,Java,jarFile,./benchmark_suite/dacapo_9_12/batik/jar/xalan-2.6.0.jar
+Application,Java,jarFile,./benchmark_suite/dacapo_9_12/batik/jar/xerces_2_5_0.jar
+Application,Java,jarFile,./benchmark_suite/dacapo_9_12/batik/jar/xml-apis-ext.jar
+Application,Java,jarFile,./benchmark_suite/dacapo_9_12/batik/jar/xml-apis.jar
